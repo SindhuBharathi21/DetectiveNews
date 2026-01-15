@@ -1,0 +1,5 @@
+streamlit
+joblib
+nltk
+numpy
+scikit-learn
